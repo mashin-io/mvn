@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Aug 07 01:12:46 EET 2016
+rich-spark-main_2.11-0.0.1-SNAPSHOT.jar>=
+rich-spark-main_2.11-0.0.1-SNAPSHOT-javadoc.jar>=
+rich-spark-main_2.11-0.0.1-SNAPSHOT.pom>=
+rich-spark-main_2.11-0.0.1-SNAPSHOT-test-sources.jar>=
+rich-spark-main_2.11-0.0.1-SNAPSHOT-sources.jar>=
+rich-spark-main_2.11-0.0.1-SNAPSHOT-tests.jar>=

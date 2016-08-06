@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
-  <groupId>io.mashin</groupId>
-  <artifactId>rich-spark</artifactId>
+  <groupId>io.mashin.rich-spark</groupId>
+  <artifactId>rich-spark-parent_2.11</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20160420111842</lastUpdated>
+    <lastUpdated>20160806231033</lastUpdated>
     <snapshotVersions>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.0.1-SNAPSHOT</value>
-        <updated>20160420111842</updated>
-      </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>0.0.1-SNAPSHOT</value>
-        <updated>20160420111842</updated>
+        <updated>20160806231033</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

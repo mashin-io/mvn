@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>io.mashin</groupId>
-  <artifactId>rich-spark</artifactId>
+  <groupId>io.mashin.rich-spark</groupId>
+  <artifactId>rich-spark-parent_2.11</artifactId>
   <versioning>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20160420111842</lastUpdated>
+    <lastUpdated>20160806231033</lastUpdated>
   </versioning>
 </metadata>
